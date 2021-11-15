@@ -1,0 +1,515 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+
+<title>XKCD 中文翻譯</title>
+<subtitle>翻譯某個關於浪漫、諷刺、數學、以及語言的漫畫</subtitle>
+<link href="https://xkcd.tw"></link>
+<link href="https://xkcd.tw/feed" rel="self"></link>
+<link href="https://pubsubhubbub.appspot.com/" rel="hub"></link>
+<id>https://xkcd.tw/feed</id>
+<updated>2021-11-08T19:10:48+08:00</updated>
+<author><name>CQD</name></author>
+<webfeeds:analytics id="UA-368263-19" engine="GoogleAnalytics"/>
+
+<entry>
+<title>十日天氣預報</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/1245.png" alt="喔，絕對不要，那邊沒有 Amazon Prime。" height="232" title="喔，絕對不要，那邊沒有 Amazon Prime。" />
+</summary>
+<link href="https://xkcd.tw/1245"></link>
+<id>https://xkcd.tw/1245</id>
+<updated>2021-11-08T19:10:48+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>至今的資料</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/373.png" alt="不過，這傢伙，說不定是真貨！" height="310" title="不過，這傢伙，說不定是真貨！" />
+</summary>
+<link href="https://xkcd.tw/373"></link>
+<id>https://xkcd.tw/373</id>
+<updated>2021-11-08T19:01:02+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>現代工具</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/2510.png" alt="我試著訓練一套 AI 來修復我的 python 環境，但它一直放棄然後把自己刪掉。" height="446" title="我試著訓練一套 AI 來修復我的 python 環境，但它一直放棄然後把自己刪掉。" />
+</summary>
+<link href="https://xkcd.tw/2510"></link>
+<id>https://xkcd.tw/2510</id>
+<updated>2021-11-08T18:53:46+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>零食</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/2538.png" alt="不過突然發現食物實際存在的研究生傾向一把抓起兩者然後吞下去，不作其他討論。" height="353" title="不過突然發現食物實際存在的研究生傾向一把抓起兩者然後吞下去，不作其他討論。" />
+</summary>
+<link href="https://xkcd.tw/2538"></link>
+<id>https://xkcd.tw/2538</id>
+<updated>2021-11-08T18:47:59+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>潛力</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/987.png" alt="我去訪問過的弱勢兒童變得太過擅長寫作，他們的隨筆文章強迫我面對痛苦的存在危機問題，所以我轉為嘗試把他們變成藥頭與罪犯。" height="269" title="我去訪問過的弱勢兒童變得太過擅長寫作，他們的隨筆文章強迫我面對痛苦的存在危機問題，所以我轉為嘗試把他們變成藥頭與罪犯。" />
+</summary>
+<link href="https://xkcd.tw/987"></link>
+<id>https://xkcd.tw/987</id>
+<updated>2021-10-31T17:25:32+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>XKCD Phone</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/1363.png" alt="合作夥伴有高通、Craigslist、惠而浦、Hostess、LifeStyles、以及美國商會。生產本裝置的設備也會處理花生製品。售價包含兩年份的尼克隊合約。手機可能會導致附近的生日蠟燭熄滅。如果手機包含 Siri，請立刻退還；請勿與他交談並忽略其給出的任何指示。請勿移除鉛殼。手機可能會吸引/困住昆蟲；此為正常現象。音量可調整（需要 root）。若感到刺痛或噁心想吐，請立刻將手機重設為出廠狀態。請勿沒入水中，手機會淹死。表面可能沒有摩擦力。長時間使用可能導致情緒快速起伏、短期記憶遺失、以及癲癇。更換電池時請勿直視。在特定狀況下，無線傳輸可能會控制上帝。" height="531" title="合作夥伴有高通、Craigslist、惠而浦、Hostess、LifeStyles、以及美國商會。生產本裝置的設備也會處理花生製品。售價包含兩年份的尼克隊合約。手機可能會導致附近的生日蠟燭熄滅。如果手機包含 Siri，請立刻退還；請勿與他交談並忽略其給出的任何指示。請勿移除鉛殼。手機可能會吸引/困住昆蟲；此為正常現象。音量可調整（需要 root）。若感到刺痛或噁心想吐，請立刻將手機重設為出廠狀態。請勿沒入水中，手機會淹死。表面可能沒有摩擦力。長時間使用可能導致情緒快速起伏、短期記憶遺失、以及癲癇。更換電池時請勿直視。在特定狀況下，無線傳輸可能會控制上帝。" />
+</summary>
+<link href="https://xkcd.tw/1363"></link>
+<id>https://xkcd.tw/1363</id>
+<updated>2021-10-31T16:49:12+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>毅力號的麥克風</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/2427.png" alt="如果他們下載的第一段聲音資料是降落時的聲音，我們大概除了漫遊車在尖叫以外什麼都聽不到。" height="288" title="如果他們下載的第一段聲音資料是降落時的聲音，我們大概除了漫遊車在尖叫以外什麼都聽不到。" />
+</summary>
+<link href="https://xkcd.tw/2427"></link>
+<id>https://xkcd.tw/2427</id>
+<updated>2021-10-31T16:19:23+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>地理</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/1472.png" alt="我最不想住的地方是位於說明龍捲風如何形成的圖片的背景的農場。" height="293" title="我最不想住的地方是位於說明龍捲風如何形成的圖片的背景的農場。" />
+</summary>
+<link href="https://xkcd.tw/1472"></link>
+<id>https://xkcd.tw/1472</id>
+<updated>2021-10-31T16:11:19+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>斜坡假說檢定</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/2533.png" alt="「什麼？我聽不到－」「什麼？我說，你確定－」「你能不能說－－」" height="242" title="「什麼？我聽不到－」「什麼？我說，你確定－」「你能不能說－－」" />
+</summary>
+<link href="https://xkcd.tw/2533"></link>
+<id>https://xkcd.tw/2533</id>
+<updated>2021-10-31T15:45:21+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>網路問題</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/2259.png" alt="看，要減少延遲，只要拍拍手說你相信！" height="481" title="看，要減少延遲，只要拍拍手說你相信！" />
+</summary>
+<link href="https://xkcd.tw/2259"></link>
+<id>https://xkcd.tw/2259</id>
+<updated>2021-09-08T14:41:42+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>啟示錄</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/2512.png" alt="天被收起﹐像書卷捲起來；但更多的天接連出現，如同書卷無窮盡。" height="267" title="天被收起﹐像書卷捲起來；但更多的天接連出現，如同書卷無窮盡。" />
+</summary>
+<link href="https://xkcd.tw/2512"></link>
+<id>https://xkcd.tw/2512</id>
+<updated>2021-09-08T14:26:54+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>視角大小</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/1276.png" alt="如果天球投影到地表上，天文學就簡單多了，只要有放大鏡就好。" height="2047" title="如果天球投影到地表上，天文學就簡單多了，只要有放大鏡就好。" />
+</summary>
+<link href="https://xkcd.tw/1276"></link>
+<id>https://xkcd.tw/1276</id>
+<updated>2021-08-26T22:23:28+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>系外行星的名字</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/1253.png" alt="如果你有些想法，聽說你可以寄信給 iaupublic@iap.fr" height="1075" title="如果你有些想法，聽說你可以寄信給 iaupublic@iap.fr" />
+</summary>
+<link href="https://xkcd.tw/1253"></link>
+<id>https://xkcd.tw/1253</id>
+<updated>2021-08-26T22:15:19+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>頻率</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/1331.png" alt="這篇漫畫顯示的是平均頻率。我本來想把瀝青滴漏實驗放進來，但看來 gif 格式處理長達幾十年的迴圈會有點問題。" height="590" title="這篇漫畫顯示的是平均頻率。我本來想把瀝青滴漏實驗放進來，但看來 gif 格式處理長達幾十年的迴圈會有點問題。" />
+</summary>
+<link href="https://xkcd.tw/1331"></link>
+<id>https://xkcd.tw/1331</id>
+<updated>2021-08-26T21:35:34+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>Python 環境</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/1987.png" alt="Python 環境保護局希望將他用水泥密封艙封起來，並且用警告圖案來提醒後代文明用 sudo 隨便裝 python 套件的危險性。" height="487" title="Python 環境保護局希望將他用水泥密封艙封起來，並且用警告圖案來提醒後代文明用 sudo 隨便裝 python 套件的危險性。" />
+</summary>
+<link href="https://xkcd.tw/1987"></link>
+<id>https://xkcd.tw/1987</id>
+<updated>2021-08-20T16:23:03+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>龍捲風守護者</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/937.png" alt="問題回報被標示為「無法重製」。" height="386" title="問題回報被標示為「無法重製」。" />
+</summary>
+<link href="https://xkcd.tw/937"></link>
+<id>https://xkcd.tw/937</id>
+<updated>2021-08-14T15:40:24+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>敲敲</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/324.png" alt="有些時候那些最有趣的事情看起來很無聊。" height="238" title="有些時候那些最有趣的事情看起來很無聊。" />
+</summary>
+<link href="https://xkcd.tw/324"></link>
+<id>https://xkcd.tw/324</id>
+<updated>2021-08-14T14:47:55+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>一般人的熟悉度</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/2501.png" alt="怎麼會有人對於矽酸鹽的地球化學沒有基本瞭解還能自稱是個成熟穩重的大人啊？矽酸鹽到處都是耶，丟石頭的時候要丟不到還很難。" height="480" title="怎麼會有人對於矽酸鹽的地球化學沒有基本瞭解還能自稱是個成熟穩重的大人啊？矽酸鹽到處都是耶，丟石頭的時候要丟不到還很難。" />
+</summary>
+<link href="https://xkcd.tw/2501"></link>
+<id>https://xkcd.tw/2501</id>
+<updated>2021-08-12T18:34:40+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>Firefox 與巫術 - 或有關聯？</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/111.png" alt="本廣告由聖會贊助以提倡微軟與基督教。要記得，聖經是封閉原始碼的。" height="476" title="本廣告由聖會贊助以提倡微軟與基督教。要記得，聖經是封閉原始碼的。" />
+</summary>
+<link href="https://xkcd.tw/111"></link>
+<id>https://xkcd.tw/111</id>
+<updated>2021-08-11T10:34:48+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>夾克</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/90.png" alt="我在公寓裡每天至少有一次這樣的對話" height="410" title="我在公寓裡每天至少有一次這樣的對話" />
+</summary>
+<link href="https://xkcd.tw/90"></link>
+<id>https://xkcd.tw/90</id>
+<updated>2021-08-10T18:34:10+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>一萬小時</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/2374.png" alt="我很高興能在此宣佈，今年我成為了世界級的嚼東西專家。" height="358" title="我很高興能在此宣佈，今年我成為了世界級的嚼東西專家。" />
+</summary>
+<link href="https://xkcd.tw/2374"></link>
+<id>https://xkcd.tw/2374</id>
+<updated>2021-08-10T18:20:37+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>我一生中的地球平均溫度</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/2500.png" alt="我一度對於報告中某些對於化石燃料使用狀況的預測精準度感到相當佩服。然後才想到，喔，對，當然了。" height="636" title="我一度對於報告中某些對於化石燃料使用狀況的預測精準度感到相當佩服。然後才想到，喔，對，當然了。" />
+</summary>
+<link href="https://xkcd.tw/2500"></link>
+<id>https://xkcd.tw/2500</id>
+<updated>2021-08-10T17:55:57+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>電子雞巢</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/1546.png" alt="奇異點已經發生了，不過不是在我們身上。" height="311" title="奇異點已經發生了，不過不是在我們身上。" />
+</summary>
+<link href="https://xkcd.tw/1546"></link>
+<id>https://xkcd.tw/1546</id>
+<updated>2021-08-08T13:34:29+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>休士頓</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/1438.png" alt="「喔，老媽。沒，那沒什麼重要的，只是工作。」" height="274" title="「喔，老媽。沒，那沒什麼重要的，只是工作。」" />
+</summary>
+<link href="https://xkcd.tw/1438"></link>
+<id>https://xkcd.tw/1438</id>
+<updated>2021-08-07T13:23:54+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>棄養功能</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/2499.png" alt="要記得只能收養明確請求被收養的已馴化無人機，捕捉野生的無人機會違反遷移性無人機條約法案。" height="323" title="要記得只能收養明確請求被收養的已馴化無人機，捕捉野生的無人機會違反遷移性無人機條約法案。" />
+</summary>
+<link href="https://xkcd.tw/2499"></link>
+<id>https://xkcd.tw/2499</id>
+<updated>2021-08-07T13:10:15+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>聲音來源</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/1590.png" alt="我們哪來的這鬼東西啊？" height="521" title="我們哪來的這鬼東西啊？" />
+</summary>
+<link href="https://xkcd.tw/1590"></link>
+<id>https://xkcd.tw/1590</id>
+<updated>2021-07-31T21:58:11+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>行為回饋</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/1457.png" alt="新的研究發現，如果你給老鼠一支手機以及一根能夠加強收訊的推桿，老鼠會把手機咬爛，而且你的指導教授會來問你跟研究補助金有關的問題。" height="415" title="新的研究發現，如果你給老鼠一支手機以及一根能夠加強收訊的推桿，老鼠會把手機咬爛，而且你的指導教授會來問你跟研究補助金有關的問題。" />
+</summary>
+<link href="https://xkcd.tw/1457"></link>
+<id>https://xkcd.tw/1457</id>
+<updated>2021-07-31T21:40:26+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>地雷驗證碼</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/2496.png" alt="這份資料實際上會用來改進我們的自駕車計畫，所以請快一點--車子快開到地雷區了。" height="354" title="這份資料實際上會用來改進我們的自駕車計畫，所以請快一點--車子快開到地雷區了。" />
+</summary>
+<link href="https://xkcd.tw/2496"></link>
+<id>https://xkcd.tw/2496</id>
+<updated>2021-07-31T21:33:17+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>Kickstarter</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/1055.png" alt="若出資超過 $50，你會被列在 VIP 清單上，並且可以得到在實際的募資專案中對任何出資等級進行優先出資的權利。" height="332" title="若出資超過 $50，你會被列在 VIP 清單上，並且可以得到在實際的募資專案中對任何出資等級進行優先出資的權利。" />
+</summary>
+<link href="https://xkcd.tw/1055"></link>
+<id>https://xkcd.tw/1055</id>
+<updated>2021-07-29T21:20:17+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>數位版權管理</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/86.png" alt="如果你對這個主題有興趣，推薦 Lawrence Lessig 的「Free Culture」。" height="492" title="如果你對這個主題有興趣，推薦 Lawrence Lessig 的「Free Culture」。" />
+</summary>
+<link href="https://xkcd.tw/86"></link>
+<id>https://xkcd.tw/86</id>
+<updated>2021-07-29T20:25:22+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>瑕疵資料</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/2494.png" alt="我們訓練它產出看起來很有說服力的資料，而我們必須承認結果看起來真的很有說服力。" height="242" title="我們訓練它產出看起來很有說服力的資料，而我們必須承認結果看起來真的很有說服力。" />
+</summary>
+<link href="https://xkcd.tw/2494"></link>
+<id>https://xkcd.tw/2494</id>
+<updated>2021-07-29T20:10:37+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>通用安全帶</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/2495.png" alt="插頭真的很緊，所以撞車的時候應該很安全。" height="372" title="插頭真的很緊，所以撞車的時候應該很安全。" />
+</summary>
+<link href="https://xkcd.tw/2495"></link>
+<id>https://xkcd.tw/2495</id>
+<updated>2021-07-29T19:59:04+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>籃球地球</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/1515.png" alt="如果你把所有世界上存在的籃球同時灌進籃會得幾分？" height="870" title="如果你把所有世界上存在的籃球同時灌進籃會得幾分？" />
+</summary>
+<link href="https://xkcd.tw/1515"></link>
+<id>https://xkcd.tw/1515</id>
+<updated>2021-07-25T21:39:58+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>永續</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/1007.png" alt="不過一百年是比我們很多資源還用得久。" height="558" title="不過一百年是比我們很多資源還用得久。" />
+</summary>
+<link href="https://xkcd.tw/1007"></link>
+<id>https://xkcd.tw/1007</id>
+<updated>2021-07-25T20:56:49+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>想看程式碼嗎？</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/2138.png" alt="也因為如果你把它放在那邊，就算沒人去碰它也會污染下游的東西。" height="288" title="也因為如果你把它放在那邊，就算沒人去碰它也會污染下游的東西。" />
+</summary>
+<link href="https://xkcd.tw/2138"></link>
+<id>https://xkcd.tw/2138</id>
+<updated>2021-07-25T20:15:13+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>流程圖</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/1195.png" alt="逃出去要靠麥克筆，你要在你跟「開始」方塊中間的線加上一個方塊寫著「拿麥克筆」，然後從陷阱方塊拉一條「否」的線到「結束」。" height="224" title="逃出去要靠麥克筆，你要在你跟「開始」方塊中間的線加上一個方塊寫著「拿麥克筆」，然後從陷阱方塊拉一條「否」的線到「結束」。" />
+</summary>
+<link href="https://xkcd.tw/1195"></link>
+<id>https://xkcd.tw/1195</id>
+<updated>2021-07-25T19:57:32+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>雙 USB-C</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/2493.png" alt="小型裝置會用雙插腳的 USB-AC，但也有三插腳的版本，多了一個接地用的 USB-B 接頭。" height="195" title="小型裝置會用雙插腳的 USB-AC，但也有三插腳的版本，多了一個接地用的 USB-B 接頭。" />
+</summary>
+<link href="https://xkcd.tw/2493"></link>
+<id>https://xkcd.tw/2493</id>
+<updated>2021-07-25T00:32:30+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>史蒂芬霍金</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/799.png" alt="「各位？竊盜城應該不錯，我在想...」「物理學家史蒂芬霍金宣稱新電影是宇宙時空中最佳的作品」「不對，我只是聽...」「科學是否有資格評斷班艾佛列克？」「我不覺得...」「麥特戴蒙又如何？」" height="221" title="「各位？竊盜城應該不錯，我在想...」「物理學家史蒂芬霍金宣稱新電影是宇宙時空中最佳的作品」「不對，我只是聽...」「科學是否有資格評斷班艾佛列克？」「我不覺得...」「麥特戴蒙又如何？」" />
+</summary>
+<link href="https://xkcd.tw/799"></link>
+<id>https://xkcd.tw/799</id>
+<updated>2021-07-25T00:28:49+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>雪地足跡</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/702.png" alt="比起 Hair Dryer，稱作 Hare Dryer 會更貼切一點。" height="630" title="比起 Hair Dryer，稱作 Hare Dryer 會更貼切一點。" />
+</summary>
+<link href="https://xkcd.tw/702"></link>
+<id>https://xkcd.tw/702</id>
+<updated>2021-07-25T00:17:14+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>修正問題</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/1739.png" alt="「你原本要處理的問題是什麼？」「我發現我在用的某個工具的效率有問題，會浪費我的時間。」" height="307" title="「你原本要處理的問題是什麼？」「我發現我在用的某個工具的效率有問題，會浪費我的時間。」" />
+</summary>
+<link href="https://xkcd.tw/1739"></link>
+<id>https://xkcd.tw/1739</id>
+<updated>2021-07-25T00:03:21+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>有建設性</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/810.png" alt="那麼那些沒有能力寫出有建設性或有幫助的人該怎麼加入...喔喔。" height="265" title="那麼那些沒有能力寫出有建設性或有幫助的人該怎麼加入...喔喔。" />
+</summary>
+<link href="https://xkcd.tw/810"></link>
+<id>https://xkcd.tw/810</id>
+<updated>2021-06-13T00:15:18+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>經濟性論點</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/808.png" alt="不能與「做出東西賣給那些相信的人來賺錢」混為一談，大企業的會計與精算師並不會覺得這有什麼問題。" height="471" title="不能與「做出東西賣給那些相信的人來賺錢」混為一談，大企業的會計與精算師並不會覺得這有什麼問題。" />
+</summary>
+<link href="https://xkcd.tw/808"></link>
+<id>https://xkcd.tw/808</id>
+<updated>2021-06-12T23:48:45+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>機翼</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/803.png" alt="這個解釋很常見很有趣而且是錯的，你應該讓你的孩子作好準備。例如「為麼空氣得要用同樣的時間流過機翼兩側」跟「我看過萊特兄弟的飛機，機翼上下彎曲的程度是一樣的」都是不錯的問題。" height="479" title="這個解釋很常見很有趣而且是錯的，你應該讓你的孩子作好準備。例如「為麼空氣得要用同樣的時間流過機翼兩側」跟「我看過萊特兄弟的飛機，機翼上下彎曲的程度是一樣的」都是不錯的問題。" />
+</summary>
+<link href="https://xkcd.tw/803"></link>
+<id>https://xkcd.tw/803</id>
+<updated>2021-06-12T15:16:23+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>居家整理</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/1077.png" alt="Lifehacking!" height="342" title="Lifehacking!" />
+</summary>
+<link href="https://xkcd.tw/1077"></link>
+<id>https://xkcd.tw/1077</id>
+<updated>2021-06-12T14:09:43+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>登陸月球</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/1456.png" alt="我相信這個國家應該全力投入完成目標，在這個十年結束之前，將人送上金星，並安全的返...[一名助手慌慌張張的在總統耳邊講了一陣子悄悄話]...將人送上金星。" height="338" title="我相信這個國家應該全力投入完成目標，在這個十年結束之前，將人送上金星，並安全的返...[一名助手慌慌張張的在總統耳邊講了一陣子悄悄話]...將人送上金星。" />
+</summary>
+<link href="https://xkcd.tw/1456"></link>
+<id>https://xkcd.tw/1456</id>
+<updated>2021-06-12T02:34:41+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>劇情翻轉</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/1441.png" alt="不管我射的是不是科幻武器，我都會很快地說出「阿波羅復歸反射器」，以防萬一。" height="248" title="不管我射的是不是科幻武器，我都會很快地說出「阿波羅復歸反射器」，以防萬一。" />
+</summary>
+<link href="https://xkcd.tw/1441"></link>
+<id>https://xkcd.tw/1441</id>
+<updated>2021-06-11T19:24:02+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>未來的我</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/1421.png" alt="我之所以沒去冰島搞不好就是因為你寫的爛 code 啦。" height="462" title="我之所以沒去冰島搞不好就是因為你寫的爛 code 啦。" />
+</summary>
+<link href="https://xkcd.tw/1421"></link>
+<id>https://xkcd.tw/1421</id>
+<updated>2021-06-11T19:18:40+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>疫苗政策</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/2434.png" alt="我快等不及把疫苗打完了，這樣才能安全的在送訊息的時候全部用大寫。" height="350" title="我快等不及把疫苗打完了，這樣才能安全的在送訊息的時候全部用大寫。" />
+</summary>
+<link href="https://xkcd.tw/2434"></link>
+<id>https://xkcd.tw/2434</id>
+<updated>2021-06-11T19:08:19+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>女性情色小品</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/714.png" alt="是，一開始在銀河號的艦橋上是有很多熱切渴望的眼神，但重點不在那裡。" height="275" title="是，一開始在銀河號的艦橋上是有很多熱切渴望的眼神，但重點不在那裡。" />
+</summary>
+<link href="https://xkcd.tw/714"></link>
+<id>https://xkcd.tw/714</id>
+<updated>2021-06-10T19:11:17+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+<entry>
+<title>性愛骰子</title>
+<summary type="html">
+<img src="https://xkcd.tw/strip/708.png" alt="你骰先攻...[骰]...哇喔，這你擋得住嗎？" height="205" title="你骰先攻...[骰]...哇喔，這你擋得住嗎？" />
+</summary>
+<link href="https://xkcd.tw/708"></link>
+<id>https://xkcd.tw/708</id>
+<updated>2021-06-10T18:54:54+08:00</updated>
+<author><name>CQD</name></author>
+</entry>
+
+</feed>
